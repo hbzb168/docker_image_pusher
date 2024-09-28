@@ -4,3 +4,4 @@ nacos/nacos-server:v2.4.0
 apache/rocketmq
 rocketmq-console-ng
 xuxueli/xxl-job-admin:2.4.0
+nginx
